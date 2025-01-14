@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Tampilan untuk register page</h1>
+    <h2>Palik bau</h2>
 </body>
 </html>
