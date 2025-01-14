@@ -47,7 +47,7 @@
             
         </div>
         <div id="trending" class="h-screen bg-red-500">
-
+        <div>test</div>
         </div>
         <div id="NearBy" class="h-screen bg-blue-500">
 
