@@ -22,7 +22,6 @@
             <x-cardEvent></x-cardEvent>
         </div>
         <div id="NearBy" class="h-screen bg-blue-500">
-
         </div>
     </div>
 
